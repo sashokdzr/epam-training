@@ -1,2 +1,2 @@
-It's GIT training!
 Add the second line.
+The third line.
